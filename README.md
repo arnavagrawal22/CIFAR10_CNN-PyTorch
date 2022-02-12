@@ -8,7 +8,7 @@ Convunational Neural Networks
 
 **RESULTS**
 
-Test Accuracy of ~88%
+Test Accuracy of ~90%
 
 ## This project is in PyTorch
 
